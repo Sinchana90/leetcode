@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Sinchana90/leetcode/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sinchana90/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
